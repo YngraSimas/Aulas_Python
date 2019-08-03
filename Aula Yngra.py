@@ -1,15 +1,18 @@
-
+import math
 x = 2
-class yngra():
-    x = 3
+
+
+class Yngra:
     def yngra2(self):
-        y=x
+        x = math.pi * 3
         return x
+
+
     def yngra3(self):
         x = 4
         return x
 
 
 print(x)
-print(yngra.yngra2(1))
-print(yngra.yngra3(1))
+print(Yngra.yngra2(1))
+print(Yngra.yngra3(1))
