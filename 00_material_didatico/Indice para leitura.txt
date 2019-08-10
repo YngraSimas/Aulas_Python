@@ -1,0 +1,3 @@
+1 - Pense Python
+2 - Automatizando tarefas massantes
+3 - Python Fluente
